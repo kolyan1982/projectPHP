@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - loft@localhost" uuid="d0fc4634-b95b-4421-aea7-34347cd15c3b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>loft.*</schema-pattern>
+      <default-schemas>loft.*</default-schemas>
+    </data-source>
+  </component>
+</project>
